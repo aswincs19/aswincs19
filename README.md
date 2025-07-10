@@ -45,5 +45,3 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 
 - DevOps certified soften Technologies
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithkp-dev&show_icons=true&locale=en" alt="adithkp-dev" /></p>
