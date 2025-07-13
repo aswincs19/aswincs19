@@ -28,29 +28,14 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong bac
 - **Containerization**: Docker, Kubernetes
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
 - **Configuration Management**: Ansible, Terraform
-- **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Monitoring**: Prometheus, Grafana
 - **Scripting**: Bash, Python
 - **Version Control**: Git, GitHub
-
-### 🌱 I'm currently learning
-
-- Infrastructure as Code with CDK, DevSecOps, and MLops
 
 ### 👯 I'm looking to collaborate on
 
 - Open-source projects related to DevOps, cloud-native technologies, and automation
 - Building scalable and highly available systems
 
-### 🏆 Certifications
 
-- AWS Certified Solutions Architect - Associate
-- HashiCorp Certified: Terraform Associate
-- DevOps certified soften Technologies
 
-### 🎖️ Badges
-
-![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator-FF9900?style=for-the-badge)
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
-![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-486C8D?style=for-the-badge)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithkp-dev&show_icons=true&locale=en" alt="adithkp-dev" /></p>
